@@ -51,7 +51,7 @@ The proposed recommendations are expected to help a hypothetical fashion brand:
 
 The final deliverable for this task is a report containing the strategic recommendations, their data-driven rationale, and anticipated outcomes.
 
-**File:** `Task-5-Strategic-Recommendations.pdf`
+**File:** `TASK 5.docx`
 
 ## Tools and Technologies
 
